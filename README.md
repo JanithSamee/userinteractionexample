@@ -2,6 +2,24 @@
 
 This Flutter application demonstrates how to implement different types of alerts, including alert dialogs, snackbar, custom dialogs, and custom bottom sheets.
 
+## Examples
+
+### Alert Dialog
+
+![Image Alt Text](./doc/alertDialog.png)
+
+### Snackbar
+
+![Image Alt Text](./doc/snackbar.png)
+
+### Custom Dialog
+
+![Image Alt Text](./doc/customDialog.png)
+
+### Custom Bottom Sheet
+
+![Image Alt Text](./doc/bottomSheet.png)
+
 ## How to Run
 
 To run this Flutter application, ensure you have Flutter installed on your system. Then, follow these steps:
